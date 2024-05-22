@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LAB4</string>
+    <string name="download_complete">Pobieranie zakonczone!</string>
+    <string name="file_downloaded">Plik pobrany!</string>
+    <string name="error_downloading_file">Blad podczas pobierania pliku</string>
+    <string name="download_in_progress">Pobieranie w toku</string>
+    <string name="downloading">Pobieranie...</string>
+    <string name="download_progress">Pobieranie w toku</string>
+    <string name="download_in_progress_text">Pobieranie w toku</string>
+</resources>

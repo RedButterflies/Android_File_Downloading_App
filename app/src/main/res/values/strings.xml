@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LAB4</string>
+    <string name="download_complete">Download completed!\n</string>
+    <string name="file_downloaded">File downloaded!</string>
+    <string name="channel_name" translatable="false">Notification Channel\n</string>
+    <string name="channel_description" translatable="false">Channel used for notifications\n</string>
+    <string name="error_downloading_file">"Error downloading file: "</string>
+    <string name="downloadservice" translatable="false">DownloadService</string>
+    <string name="downloading_file" translatable="false">Downloading File</string>
+    <string name="download_in_progress">Download in progress</string>
+    <string name="android_tlo" translatable="false">Android Tlo</string>
+    <string name="adres" translatable="false">Adres:</string>
+    <string name="adres_text" translatable="false">Adres:</string>
+    <string name="pobierz_informacje" translatable="false">POBIERZ INFORMACJE</string>
+    <string name="rozmiar_pliku" translatable="false">Rozmiar pliku:</string>
+    <string name="typ_pliku" translatable="false">Typ pliku:</string>
+    <string name="pobierz_plik" translatable="false">POBIERZ PLIK</string>
+    <string name="pobrano_bajt_w" translatable="false">Pobrano bajtów:</string>
+    <string name="downloading">Downloading...</string>
+    <string name="unknown" translatable="false">Unknown</string>
+    <string name="url" translatable="false">url</string>
+    <string name="head" translatable="false">HEAD</string>
+    <string name="download_progress">Download Progress</string>
+    <string name="download_in_progress_text">Download in progress...</string>
+    <string name="default_web">https://maven-datasets.s3.amazonaws.com/Financial+Consumer+Complaints/Customer_Complaints.zip</string>
+</resources>
